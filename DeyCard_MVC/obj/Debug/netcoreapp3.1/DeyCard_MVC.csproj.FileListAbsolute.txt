@@ -109,3 +109,5 @@ C:\Users\Muhammad\source\repos\muhammadamir98\DeyCard\DeyCard_MVC\obj\Debug\netc
 C:\Users\Muhammad\source\repos\muhammadamir98\DeyCard\DeyCard_MVC\obj\Debug\netcoreapp3.1\DeyCard_MVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Muhammad\source\repos\muhammadamir98\DeyCard\DeyCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\Muhammad\source\repos\muhammadamir98\DeyCard\DeyCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
+C:\Users\Muhammad\source\repos\muhammadamir98\DeyCard\DeyCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Footer.cshtml.g.cs
+C:\Users\Muhammad\source\repos\muhammadamir98\DeyCard\DeyCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Header.cshtml.g.cs
